@@ -1,0 +1,13 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "typescript로 블록체인 만들기",
+  "main": "index.js",
+  "repository": "https://github.com/johndonggyu/typechain.git",
+  "author": "WhiteHat\\WhiteHat <johndonggyu@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
